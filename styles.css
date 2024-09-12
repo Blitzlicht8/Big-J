@@ -1,0 +1,27 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+
+#nav-default {
+  background-image: linear-gradient(to right, rgba(139,23,32,1), rgba(4,0,1,1));
+}
+
+.inl{
+    display: inline !important;
+}
+
+.brand {
+  display: inline-block;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-family: Lato;
+  font-weight: bold;
+  padding-left: 65px;
+  background-image: url(./pictures/RedLogoTransparent.png);
+  background-repeat: no-repeat;
+  background-size: 65px 65px;
+}
