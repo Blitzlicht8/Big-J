@@ -25,3 +25,9 @@ h1 {
   background-repeat: no-repeat;
   background-size: 65px 65px;
 }
+
+@media (min-width: 576px) {
+  .brand{
+    background-size: 65px 65px;
+  }
+}
