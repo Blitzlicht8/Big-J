@@ -94,48 +94,88 @@
             </div>
         </nav>
         <!-- Main -->
-        
-        <!-- Header Carousel -->
-        <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel">
-            <div class="carousel-indicators">
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-            </div>
-            <div class="carousel-inner">
-                <div class="carousel-item carousel-overlay active">
-                    <img src="./pictures/header.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block">
-                        <h5>Big J Dance Community</h5>
-                        <p>Transforming lives through dance and faith.</p>
-                    </div>
-                </div>
-                <div class="carousel-item carousel-overlay">
-                    <img src="./pictures/header1.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block">
-                        <h5>Big J Dance Community</h5>
-                        <p>Transforming lives through dance and faith.</p>
-                    </div>
-                </div>
-                <div class="carousel-item carousel-overlay">
-                    <img src="./pictures/header2.jpg" class="d-block w-100" alt="...">
-                    <div class="carousel-caption d-none d-md-block">
-                        <h5>Big J Dance Community</h5>
-                        <p>Transforming lives through dance and faith.</p>
-                    </div>
-                </div>
-            </div>
-            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Previous</span>
-            </button>
-            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="visually-hidden">Next</span>
-            </button>
-        </div>
-        <!-- End of Header Carousel-->
+        <!-- Content-->
+        <!-- Contact Section -->
+        <section id="contact" class="contact section">
 
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+          <h2>Contact</h2>
+          <p>You can be a part of the community by reaching out to us:</p>
+        </div><!-- End Section Title -->
+  
+        <div class="container">
+  
+          <div class="row gy-4" data-aos="fade-up">
+            <div class="col-lg-6" data-aos="fade-up">
+              <div class="info-item d-flex flex-column justify-content-center align-items-center">
+                <i class="bi bi-geo-alt"></i>
+                <h3>Address</h3>
+                <p>Dr. Sixto Antonio Ave. Caniogan, Pasig City, 1606 Metro Manila</p>
+              </div>
+            </div><!-- End Info Item -->
+  
+            <div class="col-lg-3 col-md-6" data-aos="fade-up">
+              <div class="info-item d-flex flex-column justify-content-center align-items-center">
+                <i class="bi bi-telephone"></i>
+                <h3>Call Us</h3>
+                <p>+639123456789</p>
+              </div>
+            </div><!-- End Info Item -->
+  
+            <div class="col-lg-3 col-md-6" data-aos="fade-up">
+              <div class="info-item d-flex flex-column justify-content-center align-items-center">
+                <i class="bi bi-envelope"></i>
+                <h3>Email Us</h3>
+                <p>info@example.com</p>
+              </div>
+            </div><!-- End Info Item -->
+  
+          </div>
+  
+          <div class="row gy-4 mt-1" data-aos="fade-up">
+            <div class="col-lg-6">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4028.600461305363!2d121.07583290979743!3d14.565940390727267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c87777938deb%3A0x7f7e5476021cee1c!2sGlobal%20Surge%20Worship%20Center%20Pasig!5e1!3m2!1sen!2sph!4v1726388639816!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div><!-- End Google Maps -->
+  
+            <div class="col-lg-6" data-aos="fade-up">
+              <form action="forms/contact.php" method="post" class="php-email-form">
+                <div class="row gy-4">
+  
+                  <div class="col-md-6">
+                    <input type="text" name="name" class="form-control" placeholder="Your Name" required="">
+                  </div>
+  
+                  <div class="col-md-6">
+                    <input type="email" class="form-control" name="email" placeholder="Your Email" required="">
+                  </div>
+  
+                  <div class="col-md-12">
+                    <input type="text" class="form-control" name="subject" placeholder="Subject" required="">
+                  </div>
+  
+                  <div class="col-md-12">
+                    <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
+                  </div>
+  
+                  <div class="col-md-12 text-center">
+                    <div class="loading">Loading</div>
+                    <div class="error-message"></div>
+                    <div class="sent-message">Your message has been sent. Thank you!</div>
+  
+                    <button type="submit">Send Message</button>
+                  </div>
+  
+                </div>
+              </form>
+            </div><!-- End Contact Form -->
+  
+          </div>
+  
+        </div>
+  
+        </section><!-- /Contact Section -->
+        <!-- End of Content-->
         <!-- Footer -->
         <footer id="footer" class="footer position-relative light-background">
 
