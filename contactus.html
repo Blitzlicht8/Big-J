@@ -48,69 +48,52 @@
                 </button>
                 <!-- Sidebar -->
                 <div class="sidebar offcanvas offcanvas-start" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
-                    <!-- Sidebar Header -->
-                    <div class="offcanvas-header border-bottom">
-                        <div class="d-flex flex-row p-2 pt-0 pb-0">
-                            <a class="navbar-brand navbar navbrand" href="https://globalsurge.org/" target="_blank">
-                                <img src="./assets/img/Logos/GlobalSurgeLogo.png" alt="Global Surge Logo" width="65">
+                <!-- Sidebar Body -->
+                  <div class="offcanvas-body">
+                    <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                          <li class="nav-item dropdown mx-2">
+                            <a class="nav-link dropdown-toggle" href="index.html" role="button" data-bs-hover="dropdown" aria-expanded="false">
+                                HOME
                             </a>
-                            <a class="navbar-brand navbar navbrand" href="index.html">
-                                <img src="./assets/img/Logos/RedLogoTransparent.png" alt="Big J Logo" width="65">
-                                <div class="d-flex flex-column text-white">
-                                    <p class="mb-1">DANCE</p>
-                                    <p class="mb-1">COMMUNITY</p>
-                                </div>
+                            <ul id="home" class="dropdown-menu">
+                              <li><a class="dropdown-item" href="index.html#about">WHO WE ARE</a></li>
+                              <li><a class="dropdown-item" href="index.html#vismis">VISION & MISSION</a></li>
+                              <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            </ul>
+                          </li>
+                          <li class="nav-item dropdown mx-2">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                BRANCHES
                             </a>
-                        </div>
-                        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                            <ul id="branches" class="dropdown-menu">
+                                <li><a class="dropdown-item" href="#">PASIG</a></li>
+                                <li><a class="dropdown-item" href="#">FLOODWAY</a></li>
+                                <li><a class="dropdown-item" href="#">CAVITE</a></li>
+                                <li><a class="dropdown-item" href="#">COGEO</a></li>
+                                <li><a class="dropdown-item" href="#">CUBAO</a></li>
+                                <li><a class="dropdown-item" href="#">MARIKINA TUMANA</a></li>                               
+                                <li><a class="dropdown-item" href="#">MANDALUYONG</a></li>
+                                <li><a class="dropdown-item" href="#">ROSARIO</a></li>
+                                <li><a class="dropdown-item" href="#">SAN AGUSTIN</a></li>
+                                <li><a class="dropdown-item" href="#">SAN NARCISO</a></li>                              
+                                <li><a class="dropdown-item" href="#">STA. QUITERA</a></li>
+                                <li><a class="dropdown-item" href="#">SOUTH CALOOCAN</a></li>
+                                <li><a class="dropdown-item" href="#">MANGGAHAN</a></li>
+                                <li><a class="dropdown-item" href="#">MASINAG</a></li>
+                                <li><a class="dropdown-item" href="#">SAN MATEO</a></li>
+                                <li><a class="dropdown-item" href="#">PANORAMA</a></li>
+                                <li><a class="dropdown-item" href="#">MARIKINA</a></li>
+                            </ul>
+                          </li>
+                        <li class="nav-item mx-2">
+                            <a class="nav-link" aria-current="page" href="#">NEWSLETTER</a>
+                        </li>
+                        <li class="nav-item mx-2">
+                            <a class="nav-link active" href="contactus.html">CONTACT US</a>
+                        </li>
+                      </ul>
                     </div>
-                    <!-- Sidebar Body -->
-                    <div class="offcanvas-body">
-                        <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-                            <div class="btn-group mx-2">
-                                <a href="index.html"><button type="button" class="btn nav-link" href="index.html">HOME</button></a>
-                                <button type="button" class="btn nav-link dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
-                                      <span class="visually-hidden">Toggle Dropdown</span>
-                                </button>
-                                    <ul class="dropdown-menu">
-                                      <li><a class="dropdown-item" href="index.html#about">WHO WE ARE</a></li>
-                                      <li><a class="dropdown-item" href="index.html#vismis">VISION & MISSION</a></li>
-                                      <li><a class="dropdown-item" href="#">Something else here</a></li>
-                                    </ul>
-                              </div>
-                            <li class="nav-item dropdown mx-2">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                    BRANCHES
-                                </a>
-                                <ul id="branches" class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">PASIG</a></li>
-                                    <li><a class="dropdown-item" href="#">FLOODWAY</a></li>
-                                    <li><a class="dropdown-item" href="#">CAVITE</a></li>
-                                    <li><a class="dropdown-item" href="#">COGEO</a></li>
-                                    <li><a class="dropdown-item" href="#">CUBAO</a></li>
-                                    <li><a class="dropdown-item" href="#">MARIKINA TUMANA</a></li>                               
-                                    <li><a class="dropdown-item" href="#">MANDALUYONG</a></li>
-                                    <li><a class="dropdown-item" href="#">ROSARIO</a></li>
-                                    <li><a class="dropdown-item" href="#">SAN AGUSTIN</a></li>
-                                    <li><a class="dropdown-item" href="#">SAN NARCISO</a></li>                              
-                                    <li><a class="dropdown-item" href="#">STA. QUITERA</a></li>
-                                    <li><a class="dropdown-item" href="#">SOUTH CALOOCAN</a></li>
-                                    <li><a class="dropdown-item" href="#">MANGGAHAN</a></li>
-                                    <li><a class="dropdown-item" href="#">MASINAG</a></li>
-                                    <li><a class="dropdown-item" href="#">SAN MATEO</a></li>
-                                    <li><a class="dropdown-item" href="#">PANORAMA</a></li>
-                                    <li><a class="dropdown-item" href="#">MARIKINA</a></li>
-                                </ul>
-                            </li>
-                            <li class="nav-item mx-2"></li>
-                                <a class="nav-link" aria-current="page" href="#">NEWSLETTER</a>
-                            </li>
-                            <li class="nav-item mx-2">
-                                <a class="nav-link active" href="contact.html">CONTACT US</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+               </div>
             </div>
         </nav>
         <!-- End of Navbar -->
@@ -160,7 +143,7 @@
             </div><!-- End Google Maps -->
   
             <div class="col-lg-6" data-aos="zoom-out" data-aos-once=“true”>
-              <form action="forms/contact.php" method="post" class="php-email-form">
+              <form action="forms/contact.php" method="POST" class="php-email-form">
                 <div class="row gy-4">
   
                   <div class="col-md-6">
@@ -184,7 +167,7 @@
                     <div class="error-message"></div>
                     <div class="sent-message">Your message has been sent. Thank you!</div>
   
-                    <button type="submit">Send Message</button>
+                    <button type="submit" name="submitContact">Send Message</button>
                   </div>
   
                 </div>
@@ -228,7 +211,7 @@
                     <li><a href="index.html#about">Who we are</a></li>
                     <li><a href="index.html#vismis">Vision and Mission</a></li>
                     <li><a href="#">Newsletter</a></li>
-                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="contactus.html">Contact Us</a></li>
                   </ul>
                 </div>
         
