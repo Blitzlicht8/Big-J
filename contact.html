@@ -5,7 +5,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Big J Dance Community</title>
-        <link rel="icon" type="image/x-icon" href="./pictures/WhiteLogoTransparent.png">
+        <!-- Favicon -->
+        <link rel="icon" type="image/x-icon" href="./assets/img/Logos/WhiteLogoTransparent.png">
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -31,8 +32,11 @@
         <nav id="navbar" class="navbar sticky-top navbar-expand-lg navbar-dark nav-default">
             <div class="container-fluid">
                 <div class="d-flex flex-row p-2 pt-0 pb-0">
+                    <a class="navbar-brand navbar navbrand" href="https://globalsurge.org/" target="_blank">
+                        <img src="./assets/img/Logos/GlobalSurgeLogo.png" alt="Global Surge Logo" width="65">
+                    </a>
                     <a class="navbar-brand navbar navbrand" href="index.html">
-                        <img src="./pictures/RedLogoTransparent.png" alt="Big J Logo" width="65">
+                        <img src="./assets/img/Logos/RedLogoTransparent.png" alt="Big J Logo" width="65">
                         <div class="d-flex flex-column text-white">
                             <p class="mb-1">DANCE</p>
                             <p class="mb-1">COMMUNITY</p>
@@ -47,8 +51,11 @@
                     <!-- Sidebar Header -->
                     <div class="offcanvas-header border-bottom">
                         <div class="d-flex flex-row p-2 pt-0 pb-0">
+                            <a class="navbar-brand navbar navbrand" href="https://globalsurge.org/" target="_blank">
+                                <img src="./assets/img/Logos/GlobalSurgeLogo.png" alt="Global Surge Logo" width="65">
+                            </a>
                             <a class="navbar-brand navbar navbrand" href="index.html">
-                                <img src="./pictures/RedLogoTransparent.png" alt="Big J Logo" width="65">
+                                <img src="./assets/img/Logos/RedLogoTransparent.png" alt="Big J Logo" width="65">
                                 <div class="d-flex flex-column text-white">
                                     <p class="mb-1">DANCE</p>
                                     <p class="mb-1">COMMUNITY</p>
@@ -60,9 +67,17 @@
                     <!-- Sidebar Body -->
                     <div class="offcanvas-body">
                         <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-                            <li class="nav-item mx-2">
-                                <a class="nav-link" aria-current="page" href="index.html">HOME</a>
-                            </li>
+                            <div class="btn-group mx-2">
+                                <a href="index.html"><button type="button" class="btn nav-link" href="index.html">HOME</button></a>
+                                <button type="button" class="btn nav-link dropdown-toggle dropdown-toggle-split" data-bs-toggle="dropdown" aria-expanded="false">
+                                      <span class="visually-hidden">Toggle Dropdown</span>
+                                </button>
+                                    <ul class="dropdown-menu">
+                                      <li><a class="dropdown-item" href="index.html#whoweare">WHO WE ARE?</a></li>
+                                      <li><a class="dropdown-item" href="#">MISSION & VISION</a></li>
+                                      <li><a class="dropdown-item" href="#">Something else here</a></li>
+                                    </ul>
+                              </div>
                             <li class="nav-item dropdown mx-2">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     BRANCHES
@@ -87,7 +102,7 @@
                                     <li><a class="dropdown-item" href="#">MARIKINA</a></li>
                                 </ul>
                             </li>
-                            <li class="nav-item"></li>
+                            <li class="nav-item mx-2"></li>
                                 <a class="nav-link" aria-current="page" href="#">NEWSLETTER</a>
                             </li>
                             <li class="nav-item mx-2">
@@ -98,6 +113,7 @@
                 </div>
             </div>
         </nav>
+        <!-- End of Navbar -->
         <!-- Main -->
         <!-- Content-->
         <!-- Contact Section -->
@@ -188,6 +204,7 @@
               <div class="row gy-4">
                 <div class="col-lg-4 col-md-6 footer-about">
                   <a href="index.html" class="logo d-flex align-items-center">
+                    <img src="./assets/img/Logos/RedLogoTransparent.png" alt="Big J Logo">
                     <span class="sitename">Big J</span>
                   </a>
                   <div class="footer-contact pt-3">
@@ -239,7 +256,7 @@
         <!-- End of Footer-->
 
         <!-- Scroll Top -->
-        <button onclick="topFunction()" id="myBtn" title="Go to top">Top<i class="bi bi-arrow-up-short"></i></button>
+        <button onclick="topFunction()" id="goUp" title="Go to top">Top<i class="bi bi-arrow-up-short"></i></button>
 
         <!-- Preloader -->
 
