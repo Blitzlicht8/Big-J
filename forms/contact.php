@@ -32,17 +32,18 @@ if (isset($_POST["submitContact"])) {
     //Content
     $mail->isHTML(true);               //Set email format to HTML
     $mail->Subject = $_POST["subject"];   // email subject headings
-    $mail->Body = "Email: {$_POST["email"]}\n\nName: {$_POST["name"]}\n\nMessage: {$_POST["message"]}";   //email body (email/name/message)
+    $mail->Body = "Email: {$_POST["email"]}
+                  </br>Name: {$_POST["name"]}
+                  </br>Message: {$_POST["message"]}";   //email body (email/name/message)
     
       
     // Validation and Success/Failure sent message alert
-    $mail->send();
     if ($mail->send()) {
       echo 
       "
       <script> 
      alert('Message was sent successfully!');
-     document.location.href = 'index.html#contact';
+     document.location.href = '../contactus.html';
     </script>
     "
       ;
@@ -52,35 +53,4 @@ if (isset($_POST["submitContact"])) {
 
 }
 
-  
-  /*$receiving_email_address = 'rhenallenpabalan@gmail.com';
-
-  if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
-    include( $php_email_form );
-  } else {
-    die( 'Unable to load the "PHP Email Form" Library!');
-  }
-
-  $contact = new PHP_Email_Form;
-  $contact->ajax = true;
-  
-  $contact->to = $receiving_email_address;
-  $contact->from_name = $_POST['name'];
-  $contact->from_email = $_POST['email'];
-  $contact->subject = $_POST['subject'];
-
-  
-  $contact->smtp = array(
-    'host' => 'example.com',
-    'username' => 'PHPMailer',
-    'password' => 'xhlyjobhrkkoovzs',
-    'port' => '587'
-  );
-  
-
-  $contact->add_message( $_POST['name'], 'From');
-  $contact->add_message( $_POST['email'], 'Email');
-  $contact->add_message( $_POST['message'], 'Message', 10);
-
-  echo $contact->send();*/
 ?>
