@@ -15,9 +15,13 @@ background-image: linear-gradient(to right, rgba(139,23,32,1), rgba(4,0,1,1));
 }
 
 .navbrand {
-color: rgb(255, 255, 255);
-font-family: Lato;
-font-weight: bold;
+  color: rgb(255, 255, 255);
+  font-family: Lato;
+  font-weight: bold;
+}
+
+.navbrand img {
+  max-height: 65px;
 }
 
 .navbutton {
@@ -32,46 +36,46 @@ color: white;
 }
 
 nav {
-position: absolute;
-top: 0;
-height: 90px;
-margin: 0;
-padding: 0;
-width: 100%;
-justify-content: center;
-align-items: center;
+  position: absolute;
+  top: 0;
+  height: 90px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
 }
 
 header-image {
-background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.2))), url(./pictures/header.jpg) no-repeat center top;
-background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(./pictures/header.jpg) no-repeat center top;
-background-size: cover;
-background-attachment: fixed !important;
-width: 100%;
-height: 100vh;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.2))), url(./pictures/header.jpg) no-repeat center top;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(./pictures/header.jpg) no-repeat center top;
+  background-size: cover;
+  background-attachment: fixed !important;
+  width: 100%;
+  height: 100vh;
 }
 
 .carousel > .carousel-inner > .carousel-item > img {
-width: 100%;
-height: 650px;
-object-fit: cover;
+  width: 100%;
+  height: 650px;
+  object-fit: cover;
 }
 
 .carousel-overlay:after {
-content: "";
-display: block;
-position: absolute;
-top: 0;
-bottom: 0;
-left: 0;
-right: 0;
-background: black;
-opacity: 0.6;
-z-index: 1;
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: black;
+  opacity: 0.6;
+  z-index: 1;
 }
 
 .carousel-caption {
-z-index: 2;
+  z-index: 2;
 }
 
 nav {
