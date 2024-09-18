@@ -24,6 +24,16 @@ background-image: linear-gradient(to right, rgba(139,23,32,1), rgba(4,0,1,1));
   max-height: 65px;
 }
 
+@media (max-width: 768px) {
+  .navbrand p{
+    font-size: 18px;
+  }
+  .navbrand img{
+    max-height: 45px;
+  }
+}
+
+
 .navbutton {
 color: white;
 }
@@ -135,8 +145,3 @@ nav {
   margin: auto;
 }
 
-@media (max-width: 1400px) {
-  .fbframe {
-    width: 300px;
-  }
-}
