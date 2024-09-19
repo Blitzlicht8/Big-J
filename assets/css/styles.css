@@ -6,6 +6,7 @@ h1 {
   font-weight: normal;
 }
 
+/* Navbar */
 .nav-default {
 background-image: linear-gradient(to right, rgba(139,23,32,1), rgba(4,0,1,1));
 }
@@ -56,6 +57,21 @@ nav {
   align-items: center;
 }
 
+nav {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  transition: top 0.3s;
+  z-index: 1000;  /* Ensures the navbar is on top */
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0; /* remove the gap so it doesn't close */
+}
+
+/* Home Carousel */
+
 header-image {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.2)), to(rgba(0, 0, 0, 0.2))), url(./pictures/header.jpg) no-repeat center top;
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(./pictures/header.jpg) no-repeat center top;
@@ -80,23 +96,48 @@ header-image {
   left: 0;
   right: 0;
   background: black;
-  opacity: 0.6;
+  opacity: 0.75;
   z-index: 1;
 }
 
-.carousel-caption {
-  z-index: 2;
+.carousel-container {
+  color: white;
+  position: absolute;
+  inset: 90px 64px 64px 64px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  z-index: 3;
 }
 
-nav {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  transition: top 0.3s;
-  z-index: 1000;  /* Ensures the navbar is on top */
+.carousel-container h2 {
+  margin-bottom: 30px;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.carousel-container p {
+  font-size: 28px;
+  font-weight: lighter;
+}
+
+@media (max-width: 768px) {
+  .carousel-container h2 {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 1024px) {
+
+  .carousel-container h2,
+  .carousel-container p {
+    max-width: 60%;
+  }
 }
 
 /* Go Up Button */
+
 #goUp {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
@@ -117,10 +158,8 @@ nav {
   background-color: rgba(139,23,32,0.90); /* Add a dark-grey background on hover */
 }
 
-.dropdown:hover .dropdown-menu {
-  display: block;
-  margin-top: 0; /* remove the gap so it doesn't close */
-}
+
+/* About Section */
 
 .about h2 {
   text-align: center;
@@ -144,4 +183,3 @@ nav {
   bottom: 0;
   margin: auto;
 }
-
