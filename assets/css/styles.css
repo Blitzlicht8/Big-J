@@ -73,7 +73,7 @@ nav {
   z-index: 1000;  /* Ensures the navbar is on top */
 }
 
-.dropdown:hover .dropdown-home {
+.dropdown:hover .dropdown-hover {
   display: block;
   margin-top: 0; /* remove the gap so it doesn't close */
 }
@@ -99,6 +99,23 @@ nav {
   float: right;
   top: 7px;
   position: relative;
+}
+
+.btn-primary {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #891720;
+  --bs-btn-border-color: #540d13;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #260609;
+  --bs-btn-hover-border-color: #240508;
+  --bs-btn-focus-shadow-rgb: 49, 132, 253;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #89172039;
+  --bs-btn-active-border-color: #89172033;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #000000;
+  --bs-btn-disabled-border-color: #000000;
 }
 
 /* Home Carousel */
