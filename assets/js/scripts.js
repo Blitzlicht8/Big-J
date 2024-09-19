@@ -18,7 +18,7 @@ let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
 
 if (scrollTop > lastScrollTop) {
   // Scrolling down, hide the navbar
-  navbar.style.top = "-90px";  // Adjust this value based on navbar height
+  navbar.style.top = "-127px";  // Adjust this value based on navbar height
 } else {
   // Scrolling up, show the navbar
   navbar.style.top = "0";

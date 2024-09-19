@@ -22,7 +22,16 @@ background-image: linear-gradient(to right, rgba(139,23,32,1), rgba(4,0,1,1));
 }
 
 .navbrand img {
-  max-height: 80px;
+  max-height: 100px;
+}
+
+@media (max-width: 1200px) {
+  .navbrand p{
+    font-size: 24px;
+  }
+  .navbrand img{
+    max-height: 75px;
+  }
 }
 
 @media (max-width: 768px) {
