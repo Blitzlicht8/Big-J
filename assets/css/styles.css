@@ -87,6 +87,12 @@ nav {
   display: block;
 }
 
+.dropend .dropdown-toggle::after {
+  float: right;
+  top: 7px;
+  position: relative;
+}
+
 /* Home Carousel */
 
 header-image {
