@@ -800,6 +800,7 @@ section,
 
 .about .content .who-we-are {
   text-transform: uppercase;
+  font-size: 30px;
   margin-bottom: 15px;
   color: color-mix(in srgb, var(--default-color), transparent 40%);
 }
