@@ -244,3 +244,10 @@ header-image {
   overflow: hidden;
   /* .. */
 }
+
+/* Vis Mis */
+
+.vismis img {
+  border-radius: 25px;
+  padding-bottom: 100px;
+}
