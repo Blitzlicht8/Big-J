@@ -1,8 +1,12 @@
 /* Place your CSS styles in this file */
+@font-face {
+  font-family: 'MyCambria';
+  src: url('assets/fonts/Cambria.ttf')  format('truetype');
+}
 
 h1 {
   text-align: center;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: Cambria, 'MyCambria', serif;
   font-weight: normal;
 }
 
@@ -17,7 +21,7 @@ background-image: linear-gradient(to right, rgba(139,23,32,1), rgba(4,0,1,1));
 
 .navbrand {
   color: rgb(255, 255, 255);
-  font-family: Lato;
+  font-family: Cambria, 'MyCambria', serif;
   font-weight: bold;
 }
 
