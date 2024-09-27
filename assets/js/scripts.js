@@ -1,14 +1,18 @@
 /* Place your JavaScript in this file */
 
-/* function sortList(ul) {
+/* UL List Auto Sorter
+
+function sortList(ul) {
   var ul = document.getElementById(ul);
 
   Array.from(ul.getElementsByTagName("LI"))
     .sort((a, b) => a.textContent.localeCompare(b.textContent))
     .forEach(li => ul.appendChild(li));
-}
+} 
 
-sortList("branches"); */
+sortList("branches");
+
+    Doesnt Function on Nested Lists*/
 
 let lastScrollTop = 0;
 const navbar = document.querySelector('nav');
@@ -61,5 +65,9 @@ document.addEventListener('scroll', toggleScrolled);
 window.addEventListener('load', toggleScrolled);
 
 AOS.init({
-  duration: 1200,
+  duration: 500,
 })
+
+window.addEventListener('load', function () {
+  document.querySelector('.pre-loader').className += ' hidden';
+});
