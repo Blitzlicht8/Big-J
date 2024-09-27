@@ -11,6 +11,10 @@ h1 {
 }
 
 /* Navbar */
+.navpe {
+  padding-right: 8.5rem;
+}
+
 .nav-default {
 background-image: linear-gradient(to right, rgba(139,23,32,1), rgba(4,0,1,1));
 }
@@ -260,6 +264,10 @@ header-image {
 }
 
 /* Teams */
+#teamcarousel {
+  height: 500px;
+}
+
 .team .team-member {
   background-color: var(--surface-color);
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
@@ -585,6 +593,3 @@ header-image {
 }
 
 /* Core Values */
-p::first-letter {
-  font-weight: bold;
-}
