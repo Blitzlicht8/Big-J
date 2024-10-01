@@ -257,15 +257,20 @@ header-image {
   /* .. */
 }
 
-/* Vis Mis */
+/* Vis Mis and Core Values*/
 
-.vismis img {
+.vismis img,
+.corevalues img {
   border-radius: 25px;
 }
 
 /* Teams */
 #teamcarousel {
-  height: 500px;
+  height: 100%;
+}
+
+.team .team-member .social .phone {
+  width: 150px!important;
 }
 
 .team .team-member {
