@@ -19,14 +19,14 @@ if (isset($_POST["submitContact"])) {
     $mail->isSMTP();                              //Send using SMTP
     $mail->Host       = 'smtp.gmail.com';       //Set the SMTP server to send through
     $mail->SMTPAuth   = true;             //Enable SMTP authentication
-    $mail->Username   = 'xxxxxxxxxx@gmail.com';   //SMTP write your email
+    $mail->Username   = 'bigjofficial@globalsurge.org';   //SMTP write your email
     $mail->Password   = 'xxxxxxxxxxxxxxxx';      //SMTP password
     $mail->SMTPSecure = 'ssl';            //Enable implicit SSL encryption
     $mail->Port       = 465;                                    
  
     //Recipients
     $mail->setFrom( $_POST["email"], $_POST["name"]); // Sender Email and name
-    $mail->addAddress('xxxxxxxxxx@gmail.com');     //Add a recipient email  
+    $mail->addAddress('bigjofficial@globalsurge.org');     //Add a recipient email  
     $mail->addReplyTo($_POST["email"], $_POST["name"]); // reply to sender email
  
     //Content

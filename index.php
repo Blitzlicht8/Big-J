@@ -76,6 +76,13 @@
           <p>"Transforming lives through DANCE and FAITH."</p>
         </div>
       </div>
+      <div class="carousel-item carousel-overlay" data-bs-interval="3000">
+        <img src="./assets/img/Carousel/header (10).jpg" class="d-block w-100" alt="...">
+        <div class="carousel-container">
+          <h2>BIG J DANCE COMMUNITY</h2>
+          <p>"Transforming lives through DANCE and FAITH."</p>
+        </div>
+      </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -114,31 +121,20 @@
         </div>
 
         <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-once=“true”>
-          <div class="row gy-4">
-            <div class="col-lg-6">
-              <img src="assets/img/who-we-are1.jpg" class="img-fluid" alt="">
-            </div>
-            <div class="col-lg-6">
-              <div class="row gy-4">
-                <div class="col-lg-12">
-                  <img src="assets/img/who-we-are2.jpg" class="img-fluid" alt="">
-                </div>
-                <div class="col-lg-12">
-                  <img src="assets/img/who-we-are3.jpg" class="img-fluid" alt="">
-                </div>
-              </div>
-            </div>
-          </div>
+          <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FGSBigJOfficial&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         </div>
       </div>
       <div class="row gy-4" data-aos="fade-up" data-aos-once=“true”>
         <div class="col about-images">
           <div class="row justify-content-center">
             <div class="col">
-              <img src="assets/img/who-we-are5.jpg" class="img-fluid" alt="">
+              <img src="assets/img/who-we-are (1).png" class="img-fluid" alt="">
             </div>
             <div class="col">
-              <img src="assets/img/who-we-are6.jpg" class="img-fluid" alt="">
+              <img src="assets/img/who-we-are (2).png" class="img-fluid" alt="">
+            </div>
+            <div class="col">
+              <img src="assets/img/who-we-are (3).png" class="img-fluid" alt="">
             </div>
           </div>
         </div>
@@ -461,7 +457,7 @@
                     <div class="social">
                       <a href="https://web.facebook.com/jomalyn.castil.7" target="_blank"><i class="bi bi-facebook"></i></a>
                       <a href="" target="_blank"><i class="bi bi-instagram"></i></a>
-                      <a href="joma@globalsurge.org" target="_blank"><i class="bi bi-envelope"></i></a>
+                      <a href="mailto:joma@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 955 043 0339</i></a>
                     </div>
                   </div>
