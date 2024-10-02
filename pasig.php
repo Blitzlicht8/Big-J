@@ -15,7 +15,7 @@
     <div class="container-md">
       <div class="row gy-4">
         <div class="col-lg-6 content" data-aos="fade-up" data-aos-once=“true”>
-          <h2>Big J Pasig</h2>
+          <h2 id="caniogan">Big J Pasig</h2>
           <ul class="list-group">
             <li class="list-group-item d-flex justify-content-between align-items-start">
               <div class="ms-2 me-auto">
