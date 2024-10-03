@@ -56,7 +56,7 @@
               BRANCHES
             </a>
             <ul id="branches" class="dropdown-menu dropdown-hover dropend">
-              <li><a class="dropdown-item dropdown-toggle" href="#">CALOOCAN (SOUTH)</a>
+              <li><a class="dropdown-item dropdown-toggle" href="caloocan.php">CALOOCAN (SOUTH)</a>
                 <ul class="dropdown-menu dropdown-submenu">
                   <li><a class="dropdown-item" href="#">SANGANDAAN</a></li>
                 </ul>
@@ -66,14 +66,14 @@
                   <li><a class="dropdown-item" href="#">STA. QUITERA</a></li>
                 </ul>
               </li>
-              <li><a class="dropdown-item dropdown-toggle" href="#">COGEO</a>
+              <li><a class="dropdown-item dropdown-toggle" href="cogeo.php">COGEO</a>
                 <ul class="dropdown-menu dropdown-submenu">
                   <li><a class="dropdown-item" href="#">STA. CRUZ</a></li>
                 </ul>
               </li>
               <li><a class="dropdown-item" href="#">CUBAO</a></li>
               <li><a class="dropdown-item" href="#">MANDALUYONG</a></li>
-              <li><a class="dropdown-item dropdown-toggle" href="#">MARIKINA</a>
+              <li><a class="dropdown-item dropdown-toggle" href="marikina.php">MARIKINA</a>
                 <ul class="dropdown-menu dropdown-submenu">
                   <li><a class="dropdown-item" href="#">PANORAMA</a></li>
                   <li><a class="dropdown-item" href="#">TUMANA</a></li>  
@@ -88,7 +88,7 @@
                   <li><a class="dropdown-item" href="pasig.php#rosario">ROSARIO</a></li>
                 </ul>
               </li> 
-              <li><a class="dropdown-item dropdown-toggle" href="#">SAM MATEO</a>
+              <li><a class="dropdown-item dropdown-toggle" href="sanmateo.php">SAN MATEO</a>
                 <ul class="dropdown-menu dropdown-submenu">
                   <li><a class="dropdown-item" href="#">SUNNYVILLE</a></li>
                 </ul>
