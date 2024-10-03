@@ -598,3 +598,59 @@ header-image {
 }
 
 /* Core Values */
+
+
+/* Branches Tab */
+.branchtab .branchinfo {
+  background-color: var(--surface-color);
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  position: relative;
+  border-radius: 5px;
+  transition: 0.5s;
+  padding: 25px;
+  margin-bottom: 25px;
+  height: 225px;
+}
+
+@media (max-width: 468px) {
+  .branchtab .branchinfo {
+    flex-direction: column;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+}
+
+.branchpic {
+  overflow: hidden;
+  width: 200px;
+  flex-shrink: 0;
+}
+
+.branchtab .branchinfo .branchpic img {
+  transition: ease-in-out 0.3s;
+}
+
+.branchtab .branchinfo:hover {
+  transform: translateY(-10px);
+}
+
+.branchtab .branchinfo .branchcontent {
+  padding-left: 30px;
+}
+
+@media (max-width: 468px) {
+  .branchtab .branchinfo .branchcontent {
+    padding: 30px 0 0 0;
+    text-align: center;
+  }
+}
+
+.branchtab .branchinfo h4 {
+  font-weight: 700;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+.branchtab .branchinfo p {
+  margin: 10px 0 10px 0;
+  font-size: 14px;
+}
