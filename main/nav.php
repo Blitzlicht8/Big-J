@@ -52,7 +52,7 @@
             </ul>
           </li>
           <li class="nav-item dropdown mx-2">
-            <a class="nav-link" href="#" role="button" data-bs-hover="dropdown" aria-expanded="false">
+            <a class="nav-link" href="branches.php" role="button" data-bs-hover="dropdown" aria-expanded="false">
               BRANCHES
             </a>
             <ul id="branches" class="dropdown-menu dropdown-hover dropend">
@@ -167,7 +167,7 @@
         });
 
         if (isParentActive) {
-          link.classList.add('active'); // Only mark parent as active if a child is active
+          link.classList.add('active'); // Mark the parent "Branches" as active if any child is active
         } else {
           link.classList.remove('active'); // Ensure other parents are not active
         }
@@ -186,6 +186,13 @@
     const aboutUsLink = document.querySelector('.nav-link[href="../index.php"]');
     if (aboutUsLink && currentPage === 'index.php') {
       aboutUsLink.classList.add('active');
+    }
+
+    // Explicitly handle the "Branches" link for dropdown pages
+    const branchesLink = document.querySelector('.nav-link[href="branches.php"]');
+    const branchesPages = ['branches.php', 'caloocan.php', 'cogeo.php', 'marikina.php', 'pasig.php', 'sanmateo.php']; // Add all branch page filenames
+    if (branchesLink && branchesPages.includes(currentPage)) {
+      branchesLink.classList.add('active');
     }
   });
 </script>

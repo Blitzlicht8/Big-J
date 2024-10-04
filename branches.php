@@ -13,9 +13,9 @@
 
   <!-- Sangandaan -->
   <section id="branchesgeneral" class="about section">
-    <div class="container-md">
-      <div class="row gy-4">
-        <div id="fbframe" class="col-sm ms-5" data-aos="fade-up" data-aos-delay="200" data-aos-once=“true”>
+    <div class="container-lg">
+      <div class="row">
+        <div id="fbframe" class="col-lg-5" data-aos="fade-up" data-aos-delay="200" data-aos-once=“true”>
           <iframe
             src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FGSBigJOfficial&tabs=timeline&width=500&height=750&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId"
             width="500" height="750" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
@@ -23,49 +23,134 @@
             allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         </div>
 
-        <div class="col content branchtab" data-aos="fade-up" data-aos-once=“true”>
-          <div class="row position-relative">
-            <div class="row branchinfo">
-              <div class="col-lg-4 branchpic">
-                <img src="assets/img/Logos/181625642_323031792500178_7353910229273216180_n.png"
-                  class="rounded img-thumbnail" alt="">
-              </div>
-              <div class="col branchcontent">
-                <h4>Caloocan (South)</h4>
-                <p>Information here.</p>
+        <div class="col-lg content branchtab" data-aos="fade-up" data-aos-once=“true”>
+          <div class="row">
+            <div class="col-lg mx-1 branchinfo">
+              <div class="branchcontent">
+                <h4>Big J Sangandaan</h4>
+                <p>Caloocan (South)</p>
                 <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
-              </div>
+              </div> 
             </div>
-
-            <div class="row branchinfo">
-              <div class="col-lg-4 branchpic">
-                <img src="assets/img/Logos/181625642_323031792500178_7353910229273216180_n.png"
-                  class="rounded img-thumbnail" alt="">
-              </div>
-              <div class="col branchcontent">
-                <h4>Caloocan (North)</h4>
-                <p>Information here.</p>
+            <div class="col-lg mx-1 branchinfo"> 
+              <div class="branchcontent">
+                <h4>Big J Sta. Quitera</h4>
+                <p>Caloocan (North)</p>
                 <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
-              </div>
+              </div>           
             </div>
-
-            <div class="row branchinfo">
-              <div class="col-lg-4 branchpic">
-                <img src="assets/img/Logos/181625642_323031792500178_7353910229273216180_n.png"
-                  class="rounded img-thumbnail" alt="">
-              </div>
-              <div class="col branchcontent">
-                <h4>Cogeo</h4>
-                <p>Information here.</p>
+            <div class="col-lg mx-1 branchinfo"> 
+              <div class="branchcontent">
+                <h4>Big J Sta. Cruz</h4>
+                <p>Cogeo</p>
                 <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
-              </div>
+              </div>           
+            </div> 
+          </div>
+      
+          <div class="row">
+            <div class="col-lg mx-1 branchinfo">
+              <div class="branchcontent">
+                <h4>Big J Cubao</h4>
+                <p>Cubao</p>
+                <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+              </div> 
             </div>
+            <div class="col-lg mx-1 branchinfo"> 
+              <div class="branchcontent">
+                <h4>Big J Mandaluyong</h4>
+                <p>Mandaluyong</p>
+                <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+              </div>           
+            </div>
+            <div class="col-lg mx-1 branchinfo"> 
+              <div class="branchcontent">
+                <h4>Big J Panorama</h4>
+                <p>Marikina</p>
+                <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+              </div>           
+            </div> 
+          </div>
 
-            
+          <div class="row">
+            <div class="col-lg mx-1 branchinfo">
+              <div class="branchcontent">
+                <h4>Big J Tumana</h4>
+                <p>Marikina</p>
+                <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+              </div> 
+            </div>
+            <div class="col-lg mx-1 branchinfo"> 
+              <div class="branchcontent">
+                <h4>Big J Masinag</h4>
+                <p>Masinag</p>
+                <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+              </div>           
+            </div>
+            <div class="col-lg mx-1 branchinfo"> 
+              <div class="branchcontent">
+                <h4>Big J Caniogan</h4>
+                <p>Pasig</p>
+                <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+              </div>           
+            </div> 
+          </div>    
+
+          <div class="row">
+            <div class="col-lg mx-1 branchinfo">
+              <div class="branchcontent">
+                <h4>Big J Floodway</h4>
+                <p>Pasig</p>
+                <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+              </div> 
+            </div>
+            <div class="col-lg mx-1 branchinfo"> 
+              <div class="branchcontent">
+                <h4>Big J Manggahan</h4>
+                <p>Pasig</p>
+                <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+              </div>           
+            </div>
+            <div class="col-lg mx-1 branchinfo"> 
+              <div class="branchcontent">
+                <h4>Big J Rosario</h4>
+                <p>Pasig</p>
+                <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+              </div>           
+            </div> 
+          </div>  
 
           </div>
+      </div>
+
+      <div class="row">
+        <div class="col-lg content branchtab" data-aos="fade-up" data-aos-once=“true”>
+        <div class="row">
+            <div class="col-lg mx-1 branchinfo">
+              <div class="branchcontent">
+                <h4>Big J SunnyVille</h4>
+                <p>San Mateo</p>
+                <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+              </div> 
+            </div>
+            <div class="col-lg mx-1 branchinfo"> 
+              <div class="branchcontent">
+                <h4>Big J San Agustin</h4>
+                <p>Zambales</p>
+                <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+              </div>           
+            </div>
+            <div class="col-lg mx-1 branchinfo"> 
+              <div class="branchcontent">
+                <h4>Big J San Narciso</h4>
+                <p>Zambaless</p>
+                <a href="#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+              </div>           
+            </div> 
+          </div>  
         </div>
       </div>
+
     </div>
   </section>
   <!-- End of Sangandaan -->
