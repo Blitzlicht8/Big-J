@@ -153,7 +153,7 @@
 
     </div>
   </section>
-  <!-- End of Sangandaan -->
+  <!-- End of Branches -->
   <hr class="hrstyle">
 
   <!-- Footer -->
