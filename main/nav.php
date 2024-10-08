@@ -56,14 +56,19 @@
               BRANCHES
             </a>
             <ul id="branches" class="dropdown-menu dropdown-hover dropend">
-              <li><a class="dropdown-item dropdown-toggle" href="caloocan.php">CALOOCAN (SOUTH)</a>
+              <li><a class="dropdown-item dropdown-toggle" href="caloocans.php">CALOOCAN (SOUTH)</a>
                 <ul class="dropdown-menu dropdown-submenu">
                   <li><a class="dropdown-item" href="#">SANGANDAAN</a></li>
                 </ul>
               </li>
-              <li><a class="dropdown-item dropdown-toggle" href="#">CALOOCAN (NORTH)</a>
+              <li><a class="dropdown-item dropdown-toggle" href="caloocann.php">CALOOCAN (NORTH)</a>
                 <ul class="dropdown-menu dropdown-submenu">
-                  <li><a class="dropdown-item" href="#">STA. QUITERA</a></li>
+                  <li><a class="dropdown-item" href="#">STA. QUITERIA</a></li>
+                </ul>
+              </li>
+              <li><a class="dropdown-item dropdown-toggle" href="cavite.php">CAVITE</a>
+                <ul class="dropdown-menu dropdown-submenu">
+                  <li><a class="dropdown-item" href="#">SALAWAG</a></li>
                 </ul>
               </li>
               <li><a class="dropdown-item dropdown-toggle" href="cogeo.php">COGEO</a>
@@ -71,15 +76,15 @@
                   <li><a class="dropdown-item" href="#">STA. CRUZ</a></li>
                 </ul>
               </li>
-              <li><a class="dropdown-item" href="#">CUBAO</a></li>
-              <li><a class="dropdown-item" href="#">MANDALUYONG</a></li>
+              <li><a class="dropdown-item" href="cubao.php">CUBAO</a></li>
+              <li><a class="dropdown-item" href="mandaluyong.php">MANDALUYONG</a></li>
               <li><a class="dropdown-item dropdown-toggle" href="marikina.php">MARIKINA</a>
                 <ul class="dropdown-menu dropdown-submenu">
                   <li><a class="dropdown-item" href="#">PANORAMA</a></li>
                   <li><a class="dropdown-item" href="#">TUMANA</a></li>  
                 </ul>
               </li>
-              <li><a class="dropdown-item" href="#">MASINAG</a></li> 
+              <li><a class="dropdown-item" href="masinag.php">MASINAG</a></li> 
               <li><a class="dropdown-item dropdown-toggle" href="pasig.php">PASIG</a>
                 <ul class="dropdown-menu dropdown-submenu">
                   <li><a class="dropdown-item" href="pasig.php#caniogan">CANIOGAN</a></li>
@@ -93,7 +98,7 @@
                   <li><a class="dropdown-item" href="#">SUNNYVILLE</a></li>
                 </ul>
               </li>
-              <li><a class="dropdown-item dropdown-toggle" href="#">ZAMBALES</a>
+              <li><a class="dropdown-item dropdown-toggle" href="zambales.php">ZAMBALES</a>
                 <ul class="dropdown-menu dropdown-submenu">
                   <li><a class="dropdown-item" href="#">SAN AGUSTIN</a></li>
                   <li><a class="dropdown-item" href="#">SAN NARCISO</a></li>
@@ -102,10 +107,10 @@
             </ul>
           </li>
           <li class="nav-item mx-2">
-            <a class="nav-link" aria-current="page" href="#">WHAT'S NEW</a>
+            <a class="nav-link" aria-current="page" href="whatsnew.php">WHAT'S NEW</a>
           </li>
           <li class="nav-item mx-2">
-            <a class="nav-link" aria-current="page" href="#">GET INVOLVED</a>
+            <a class="nav-link" aria-current="page" href="newsletter.php">GET INVOLVED</a>
           </li>
           <li class="nav-item mx-2">
             <a class="nav-link" href="contactus.php">CONTACT US</a>
@@ -190,7 +195,7 @@
 
     // Explicitly handle the "Branches" link for dropdown pages
     const branchesLink = document.querySelector('.nav-link[href="branches.php"]');
-    const branchesPages = ['branches.php', 'caloocan.php', 'cogeo.php', 'marikina.php', 'pasig.php', 'sanmateo.php']; // Add all branch page filenames
+    const branchesPages = ['branches.php', 'caloocans.php', 'caloocann.php', 'cavite.php', 'cogeo.php', 'cubao.php', 'mandaluyong.php', 'marikina.php', 'masinag.php', 'pasig.php', 'sanmateo.php', 'zambales.php']; // Add all branch page filenames
     if (branchesLink && branchesPages.includes(currentPage)) {
       branchesLink.classList.add('active');
     }

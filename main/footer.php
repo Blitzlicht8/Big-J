@@ -35,11 +35,11 @@
         <div class="col footer-links">
           <h4>More Links</h4>
           <ul>
-            <li><a href="#">TEAM</a></li>
-            <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-            <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-            <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-            <li><a href="contactus.php">Contact Us</a></li>
+            <li><a href="../index.php#team">TEAM</a></li>
+            <li><a href="../branches.php">BRANCHES</a></li>
+            <li><a href="../whatsnew.php">WHAT'S NEW</a></li>
+            <li><a href="../newsletter.php">NEWSLETTER</a></li>
+            <li><a href="../contactus.php">Contact Us</a></li>
           </ul>
         </div>
       </div>
