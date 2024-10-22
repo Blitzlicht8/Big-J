@@ -21,43 +21,43 @@
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Big-J Branch Name</div>
-            
+            Lifewayfellowship Big J
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Launched Date</div>
-              
+              2010
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Church Name</div>
-              
+            Lifewayfellowship.ph
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Executive Pastor's Name</div>
-              
+            Rev. Marlon V. Peregrin
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Church Complete Address</div>
-            
+            468 CGV Boni Ave. New Zaniga Mandaluyong City
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Director's Complete Name</div>
-            
+            Daniel Canlas
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Branch Complete Address</div>
-            
+            468 CGV Boni Ave. New Zaniga Mandaluyong City
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
