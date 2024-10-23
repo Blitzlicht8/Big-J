@@ -10,13 +10,25 @@
   <!-- End of Navbar -->
 
   <!-- Main -->
-  <!-- Pasig -->
-  <section id="pasig" class="about section">
+  <!-- Caniogan -->
+  <section id="caniogan" class="about section">
     <div class="container-md">
       <div class="row gy-4">
         <div class="col-lg-6 content" data-aos="fade-up" data-aos-once=“true”>
           <h2 id="caniogan">Big J Pasig</h2>
           <ul class="list-group">
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold">Big-J Branch Name</div>
+                Big J Pasig
+              </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold">Launched Date</div>
+                July 7, 2007
+              </div>
+            </li>
             <li class="list-group-item d-flex justify-content-between align-items-start">
               <div class="ms-2 me-auto">
                 <div class="fw-bold">Church Name</div>
@@ -45,6 +57,12 @@
               <div class="ms-2 me-auto">
                 <div class="fw-bold">Branch Complete Address</div>
                 Global Surge Worship Center
+              </div>
+            </li>
+            <li class="list-group-item d-flex justify-content-between align-items-start">
+              <div class="ms-2 me-auto">
+                <div class="fw-bold">Branch Launched Date</div>
+                July 7, 2007
               </div>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-start">
@@ -80,15 +98,15 @@
 
         <div id="fbframe" class="col-sm ms-5" data-aos="fade-up" data-aos-delay="200" data-aos-once=“true”>
           <iframe
-            src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FBigJDanceMinistryPasig&tabs=timeline&width=500&height=750&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId"
-            width="500" height="750" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
+            src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FBigJDanceMinistryPasig&tabs=timeline&width=500&height=950&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId"
+            width="500" height="950" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
             allowfullscreen="true"
             allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         </div>
       </div>
     </div>
   </section>
-  <!-- End of Pasig -->
+  <!-- End of Caniogan -->
   <hr class="hrstyle">
 
   <!-- Floodway -->

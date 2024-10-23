@@ -29,21 +29,21 @@
               <div class="branchcontent">
                 <h4>Big J Sangandaan</h4>
                 <p>Caloocan (South)</p>
-                <a href="caloocans.php" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+                <a href="caloocans.php#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
               </div> 
             </div>
             <div class="col-lg mx-1 branchinfo"> 
               <div class="branchcontent">
                 <h4>Big J Sta. Quitera</h4>
                 <p>Caloocan (North)</p>
-                <a href="caloocann.php" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+                <a href="caloocann.php#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
               </div>           
             </div>
             <div class="col-lg mx-1 branchinfo"> 
               <div class="branchcontent">
                 <h4>Big J Sta. Cruz</h4>
                 <p>Cogeo</p>
-                <a href="cogeo.php" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+                <a href="cogeo.php#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
               </div>           
             </div> 
           </div>
@@ -67,7 +67,7 @@
               <div class="branchcontent">
                 <h4>Big J Panorama</h4>
                 <p>Marikina</p>
-                <a href="marikina.php" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+                <a href="marikina.php#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
               </div>           
             </div> 
           </div>
@@ -77,21 +77,21 @@
               <div class="branchcontent">
                 <h4>Big J Tumana</h4>
                 <p>Marikina</p>
-                <a href="marikina.php" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+                <a href="marikina.php#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
               </div> 
             </div>
             <div class="col-lg mx-1 branchinfo"> 
               <div class="branchcontent">
                 <h4>Big J Masinag</h4>
                 <p>Masinag</p>
-                <a href="masinag.php" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+                <a href="masinag.php#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
               </div>           
             </div>
             <div class="col-lg mx-1 branchinfo"> 
               <div class="branchcontent">
                 <h4>Big J Caniogan</h4>
                 <p>Pasig</p>
-                <a href="pasig.php" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+                <a href="pasig.php#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
               </div>           
             </div> 
           </div>    
@@ -101,21 +101,21 @@
               <div class="branchcontent">
                 <h4>Big J Floodway</h4>
                 <p>Pasig</p>
-                <a href="pasig.php" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+                <a href="pasig.php#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
               </div> 
             </div>
             <div class="col-lg mx-1 branchinfo"> 
               <div class="branchcontent">
                 <h4>Big J Manggahan</h4>
                 <p>Pasig</p>
-                <a href="pasig.php" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+                <a href="pasig.php#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
               </div>           
             </div>
             <div class="col-lg mx-1 branchinfo"> 
               <div class="branchcontent">
                 <h4>Big J Rosario</h4>
                 <p>Pasig</p>
-                <a href="pasig.php" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+                <a href="pasig.php#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
               </div>           
             </div> 
           </div>  
@@ -125,21 +125,21 @@
               <div class="branchcontent">
                 <h4>Big J SunnyVille</h4>
                 <p>San Mateo</p>
-                <a href="sanmateo.php" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+                <a href="sanmateo.php#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
               </div> 
             </div>
             <div class="col-lg mx-1 branchinfo"> 
               <div class="branchcontent">
                 <h4>Big J San Agustin</h4>
                 <p>Zambales</p>
-                <a href="zambales.php" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+                <a href="zambales.php#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
               </div>           
             </div>
             <div class="col-lg mx-1 branchinfo"> 
               <div class="branchcontent">
                 <h4>Big J San Narciso</h4>
                 <p>Zambales</p>
-                <a href="zambales.php" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
+                <a href="zambales.php#" class="read-more stretched-link">Learn More <i class="bi bi-arrow-right"></i></a>
               </div>           
             </div> 
           </div>  

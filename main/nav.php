@@ -58,30 +58,30 @@
             <ul id="branches" class="dropdown-menu dropdown-hover dropend">
               <li><a class="dropdown-item dropdown-toggle" href="caloocans.php">CALOOCAN (SOUTH)</a>
                 <ul class="dropdown-menu dropdown-submenu">
-                  <li><a class="dropdown-item" href="#">SANGANDAAN</a></li>
+                  <li><a class="dropdown-item" href="caloocans.php#">SANGANDAAN</a></li>
                 </ul>
               </li>
               <li><a class="dropdown-item dropdown-toggle" href="caloocann.php">CALOOCAN (NORTH)</a>
                 <ul class="dropdown-menu dropdown-submenu">
-                  <li><a class="dropdown-item" href="#">STA. QUITERIA</a></li>
+                  <li><a class="dropdown-item" href="caloocann.php#">STA. QUITERIA</a></li>
                 </ul>
               </li>
               <li><a class="dropdown-item dropdown-toggle" href="cavite.php">CAVITE</a>
                 <ul class="dropdown-menu dropdown-submenu">
-                  <li><a class="dropdown-item" href="#">SALAWAG</a></li>
+                  <li><a class="dropdown-item" href="cavite.php#">SALAWAG</a></li>
                 </ul>
               </li>
               <li><a class="dropdown-item dropdown-toggle" href="cogeo.php">COGEO</a>
                 <ul class="dropdown-menu dropdown-submenu">
-                  <li><a class="dropdown-item" href="#">STA. CRUZ</a></li>
+                  <li><a class="dropdown-item" href="cogeo.php#">STA. CRUZ</a></li>
                 </ul>
               </li>
               <li><a class="dropdown-item" href="cubao.php">CUBAO</a></li>
               <li><a class="dropdown-item" href="mandaluyong.php">MANDALUYONG</a></li>
               <li><a class="dropdown-item dropdown-toggle" href="marikina.php">MARIKINA</a>
                 <ul class="dropdown-menu dropdown-submenu">
-                  <li><a class="dropdown-item" href="#">PANORAMA</a></li>
-                  <li><a class="dropdown-item" href="#">TUMANA</a></li>  
+                  <li><a class="dropdown-item" href="marikina.php#">PANORAMA</a></li>
+                  <li><a class="dropdown-item" href="marikina.php#">TUMANA</a></li>  
                 </ul>
               </li>
               <li><a class="dropdown-item" href="masinag.php">MASINAG</a></li> 
@@ -95,13 +95,13 @@
               </li> 
               <li><a class="dropdown-item dropdown-toggle" href="sanmateo.php">SAN MATEO</a>
                 <ul class="dropdown-menu dropdown-submenu">
-                  <li><a class="dropdown-item" href="#">SUNNYVILLE</a></li>
+                  <li><a class="dropdown-item" href="sanmateo.php#">SUNNYVILLE</a></li>
                 </ul>
               </li>
               <li><a class="dropdown-item dropdown-toggle" href="zambales.php">ZAMBALES</a>
                 <ul class="dropdown-menu dropdown-submenu">
-                  <li><a class="dropdown-item" href="#">SAN AGUSTIN</a></li>
-                  <li><a class="dropdown-item" href="#">SAN NARCISO</a></li>
+                  <li><a class="dropdown-item" href="zambales.php#">SAN AGUSTIN</a></li>
+                  <li><a class="dropdown-item" href="zambales.php#">SAN NARCISO</a></li>
                 </ul>
               </li> 
             </ul>
