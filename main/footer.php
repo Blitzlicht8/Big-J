@@ -38,7 +38,7 @@
             <li><a href="../index.php#team">TEAM</a></li>
             <li><a href="../branches.php">BRANCHES</a></li>
             <li><a href="../whatsnew.php">WHAT'S NEW</a></li>
-            <li><a href="../newsletter.php">GET INVOLVED</a></li>
+            <li><a href="../getinvolved.php">GET INVOLVED</a></li>
             <li><a href="../contactus.php">CONTACT US</a></li>
           </ul>
         </div>

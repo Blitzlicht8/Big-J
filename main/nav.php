@@ -110,7 +110,7 @@
             <a class="nav-link" aria-current="page" href="whatsnew.php">WHAT'S NEW</a>
           </li>
           <li class="nav-item mx-2">
-            <a class="nav-link" aria-current="page" href="newsletter.php">GET INVOLVED</a>
+            <a class="nav-link" aria-current="page" href="getinvolved.php">GET INVOLVED</a>
           </li>
           <li class="nav-item mx-2">
             <a class="nav-link" href="contactus.php">CONTACT US</a>

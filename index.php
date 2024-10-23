@@ -466,7 +466,7 @@
                     <p>Oversees the overall vision, strategy, and operations of the organization, ensuring that all initiatives align with its mission. This role focuses on developing strategies to grow the community and enhance engagement.</p>
                     <div class="social">
                       <a href="https://web.facebook.com/jomalyn.castil.7" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="https://www.instagram.com/jlyncastil/" target="_blank"><i class="bi bi-instagram"></i></a>
                       <a href="mailto:joma@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 955 043 0339</i></a>
                     </div>
@@ -484,8 +484,8 @@
                     <p>Responsible for developing leadership training and spiritual growth programs. This person leads initiatives that strengthen the spiritual life and leadership capacity of the team members and participants.</p>
                     <div class="social">
                       <a href="https://web.facebook.com/bernard.calderon" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-instagram"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-envelope"></i></a>
+                      <a href="https://www.instagram.com//" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="mailto:bernard@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 912 003 1562</i></a>
                     </div>
                   </div>
@@ -502,8 +502,8 @@
                     <p>Manages the planning, execution, and evaluation of all events and programs. This includes overseeing event logistics, program development, and ensuring that events are aligned with the ministry’s goals.</p>
                     <div class="social">
                       <a href="https://web.facebook.com/cayCEEngkit" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-instagram"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-envelope"></i></a>
+                      <a href="https://www.instagram.com/itsme_ceengkit/" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="mailto:caycee@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 963 668 8899</i></a>
                     </div>
                   </div>
@@ -520,8 +520,8 @@
                     <p>Oversees the recruitment, training, and management of volunteers for the camp dance department. This role also handles outsourcing partnerships and collaborations with external dance coaches or related professionals.</p>
                     <div class="social">
                       <a href="https://web.facebook.com/Eraizaquimpo" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-instagram"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-envelope"></i></a>
+                      <a href="https://www.instagram.com//" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="mailto:eraiza@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 906 677 9379</i></a>
                     </div>
                   </div>
@@ -541,8 +541,8 @@
                     <p>Leads the development of workshops and establishment-related initiatives, ensuring that the organization provides high-quality training and learning experiences for participants</p>
                     <div class="social">
                       <a href="https://web.facebook.com/Pollys.mhay" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-instagram"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-envelope"></i></a>
+                      <a href="https://www.instagram.com/poulmagpusao/" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="mailto:poul@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 992 224 6938</i></a>
                     </div>
                   </div>
@@ -559,8 +559,8 @@
                     <p>Responsible for overseeing all activities, operations, and community-building efforts specific to the Big J branch or location in Pasig. This includes managing local outreach, programs, and events.</p>
                     <div class="social">
                       <a href="https://web.facebook.com/bertmelan02" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-instagram"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-envelope"></i></a>
+                      <a href="https://www.instagram.com/_iamberto/" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="mailto:bert@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 970 526 0714</i></a>
                     </div>
                   </div>
@@ -577,8 +577,8 @@
                     <p>Manages the organization’s financial health, budgeting, and logistics. This role ensures the effective allocation of resources and oversees transportation, equipment, and venue coordination.</p>
                     <div class="social">
                       <a href="https://web.facebook.com/ABCDENGGGGGGGGGGGGGGGGGGGGGGGG" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-instagram"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-envelope"></i></a>
+                      <a href="https://www.instagram.com/abcdeeeeeeng/" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="mailto:andrea@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 933 144 2056</i></a>
                     </div>
                   </div>
@@ -595,8 +595,8 @@
                     <p>Oversees the management of data entry processes and ensures accurate record-keeping. This role also focuses on tracking engagement metrics and analyzing participation data to improve strategies.</p>
                     <div class="social">
                       <a href="https://web.facebook.com/michie.orcales.14" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-instagram"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-envelope"></i></a>
+                      <a href="https://www.instagram.com/michelleorcales/" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="mailto:michelle@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 930 669 1093</i></a>
                     </div>
                   </div>
@@ -616,8 +616,8 @@
                     <p>Serves as the primary support to the Executive Director, managing their schedule, communications, and ensuring the smooth execution of daily tasks. While managing the general administrative functions of the organization, coordinating office operations, managing internal processes, and supporting various departments to maintain efficiency and organization-wide cohesion.</p>
                     <div class="social">
                       <a href="https://web.facebook.com/Cyrasnotavailable.234" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-instagram"></i></a>
-                      <a href="" target="_blank"><i class="bi bi-envelope"></i></a>
+                      <a href="https://www.instagram.com/jadeee_isnt_available_to_an1/" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="mailto:cyra@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 915 984 8293</i></a>
                     </div>
                   </div>
