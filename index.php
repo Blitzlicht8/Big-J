@@ -411,8 +411,18 @@
               </div>
               <div class="col-md-7">
                 <div class="experience-slide-text">
-                  <h3>TBD</h3>
-                  <p>Brief Description Here</p>
+                  <h3>1st Wave - May 4, 2024</h3>
+                  <p>San Narciso
+                    </br>Masinag
+                    </br>Rosario
+                  </p>
+                  <h3>2nd Wave - September 7, 2024</h3>
+                  <p>Mandaluyong 
+                  </br>BMCFC
+                  </br>Manggahan
+                  </br>VCCF
+                  </br>CBC Caloocan
+                  </p>
                 </div>
               </div>
             </div>
