@@ -11,7 +11,7 @@
             <p>Dr. Sixto Antonio Ave. Caniogan</p>
             <p>Pasig City, 1606 Metro Manila</p>
             <p class="mt-3"><strong>Phone:</strong> <span>+639942618400</span></p>
-            <p><strong>Email:</strong> <span>bigjofficial@globalsurge.org</span></p>
+            <p><strong>Email:</strong> <span>bigj@globalsurge.org</span></p>
           </div>
           <div class="social-links d-flex mt-4">
             <a href=""><i class="bi bi-twitter-x"></i></a>

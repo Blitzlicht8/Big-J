@@ -43,7 +43,7 @@
           <div class="info-item d-flex flex-column justify-content-center align-items-center">
             <i class="bi bi-envelope"></i>
             <h3>Email Us</h3>
-            <p>bigjofficial@globalsurge.org</p>
+            <p>bigj@globalsurge.org</p>
           </div>
         </div><!-- End Info Item -->
 
