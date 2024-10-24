@@ -121,20 +121,30 @@
         </div>
 
         <div class="col-lg-6 about-images" data-aos="fade-up" data-aos-once=“true”>
-          <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FGSBigJOfficial&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+          <iframe
+            src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FGSBigJOfficial&tabs=timeline&width=500&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId"
+            width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0"
+            allowfullscreen="true"
+            allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         </div>
       </div>
       <div class="row gy-4" data-aos="fade-up" data-aos-once=“true”>
         <div class="col about-images">
           <div class="row justify-content-center">
             <div class="col">
-              <img src="assets/img/who-we-are (1).png" class="img-fluid" alt="">
+              <a href="assets/img/who-we-are (1).png" data-fancybox="about">
+                <img src="assets/img/who-we-are (1).png" class="img-fluid" alt="">
+              </a>
             </div>
             <div class="col">
-              <img src="assets/img/who-we-are (2).png" class="img-fluid" alt="">
+              <a href="assets/img/who-we-are (2).png" data-fancybox="about">
+                <img src="assets/img/who-we-are (2).png" class="img-fluid" alt="">
+              </a>
             </div>
             <div class="col">
-              <img src="assets/img/who-we-are (3).png" class="img-fluid" alt="">
+              <a href="assets/img/who-we-are (3).png" data-fancybox="about">
+                <img src="assets/img/who-we-are (3).png" class="img-fluid" alt="">
+              </a>
             </div>
           </div>
         </div>
@@ -148,7 +158,9 @@
     <div class="container section-title vismis" data-aos="fade-up" data-aos-once=“true”>
       <div id="vismis" class="container col-lg-12">
         <h2>VISION AND MISSION STATEMENT</h2>
-        <img src="assets/img/vis-mis1.png" class="img-fluid" alt="">
+        <a href="assets/img/vis-mis1.png" data-fancybox>
+          <img src="assets/img/vis-mis1.png" class="img-fluid" alt="" />
+        </a>
       </div>
     </div>
   </section>
@@ -159,7 +171,9 @@
     <div class="container section-title corevalues" data-aos="fade-up" data-aos-once=“true”>
       <div id="corevalues" class="container col-lg-12 ">
         <h2>CORE VALUES</h2>
-        <img src="assets/img/corevalues.png" class="img-fluid" alt="">
+        <a href="assets/img/corevalues.png" data-fancybox>
+          <img src="assets/img/corevalues.png" class="img-fluid" alt="">
+        </a>
       </div>
     </div>
   </section>
@@ -417,11 +431,11 @@
                     </br>Rosario
                   </p>
                   <h3>2nd Wave - September 7, 2024</h3>
-                  <p>Mandaluyong 
-                  </br>BMCFC
-                  </br>Manggahan
-                  </br>VCCF
-                  </br>CBC Caloocan
+                  <p>Mandaluyong
+                    </br>BMCFC
+                    </br>Manggahan
+                    </br>VCCF
+                    </br>CBC Caloocan
                   </p>
                 </div>
               </div>
@@ -449,41 +463,47 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up" data-aos-once=“true”>
       <h2 id="team">BIG J DANCE COMMUNITY LEADERSHIP TEAM</h2>
-    </div><!-- End Section Title -->
+    </div>
+    <!-- End Section Title -->
 
-    <div id="teamcarousel" class="container">
+    
       <div id="carouselExample" class="carousel slide">
         <div class="carousel-inner">
           <div class="carousel-item active">
             <div class="row gy-4">
               <div class="col-lg-6" data-aos="fade-up" data-aos-once=“true”>
                 <div class="team-member d-flex align-items-start">
-                  <div class="pic"><img src="assets/img/Team/CASTIL, JOMALYN B.png"
-                      class="img-fluid" alt=""></div>
+                  <div class="pic"><img src="assets/img/Team/CASTIL, JOMALYN B.png" class="img-fluid" alt=""></div>
                   <div class="member-info">
                     <h4>Jomalyn Castil</h4>
                     <span><b>Executive Director</b>, Community Operations & Strategies</span>
-                    <p>Oversees the overall vision, strategy, and operations of the organization, ensuring that all initiatives align with its mission. This role focuses on developing strategies to grow the community and enhance engagement.</p>
+                    <p>Oversees the overall vision, strategy, and operations of the organization, ensuring that all
+                      initiatives align with its mission. This role focuses on developing strategies to grow the
+                      community and enhance engagement.</p>
                     <div class="social">
-                      <a href="https://web.facebook.com/jomalyn.castil.7" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="https://www.instagram.com/jlyncastil/" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="https://web.facebook.com/jomalyn.castil.7" target="_blank"><i
+                          class="bi bi-facebook"></i></a>
+                      <a href="https://www.instagram.com/jlyncastil/" target="_blank"><i
+                          class="bi bi-instagram"></i></a>
                       <a href="mailto:joma@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 955 043 0339</i></a>
                     </div>
                   </div>
                 </div>
               </div><!-- End Team Member -->
-      
+
               <div class="col-lg-6" data-aos="fade-up" data-aos-once=“true”>
                 <div class="team-member d-flex align-items-start">
-                  <div class="pic"><img src="assets/img/Team/Bernard Calderon.png"
-                      class="img-fluid" alt=""></div>
+                  <div class="pic"><img src="assets/img/Team/Bernard Calderon.png" class="img-fluid" alt=""></div>
                   <div class="member-info">
                     <h4>Bernard Calderon</h4>
                     <span><b>Senior Director</b>, Leadership & Spiritual Advancement</span>
-                    <p>Responsible for developing leadership training and spiritual growth programs. This person leads initiatives that strengthen the spiritual life and leadership capacity of the team members and participants.</p>
+                    <p>Responsible for developing leadership training and spiritual growth programs. This person leads
+                      initiatives that strengthen the spiritual life and leadership capacity of the team members and
+                      participants.</p>
                     <div class="social">
-                      <a href="https://web.facebook.com/bernard.calderon" target="_blank"><i class="bi bi-facebook"></i></a>
+                      <a href="https://web.facebook.com/bernard.calderon" target="_blank"><i
+                          class="bi bi-facebook"></i></a>
                       <a href="https://www.instagram.com//" target="_blank"><i class="bi bi-instagram"></i></a>
                       <a href="mailto:bernard@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 912 003 1562</i></a>
@@ -491,33 +511,36 @@
                   </div>
                 </div>
               </div><!-- End Team Member -->
-      
+
               <div class="col-lg-6" data-aos="fade-up" data-aos-once=“true”>
                 <div class="team-member d-flex align-items-start">
-                  <div class="pic"><img src="assets/img/Team/Cayceelyn Calderon.png"
-                      class="img-fluid" alt=""></div>
+                  <div class="pic"><img src="assets/img/Team/Cayceelyn Calderon.png" class="img-fluid" alt=""></div>
                   <div class="member-info">
                     <h4>Cayceelyn Calderon</h4>
                     <span><b>Senior Director</b>, Events & Program</span>
-                    <p>Manages the planning, execution, and evaluation of all events and programs. This includes overseeing event logistics, program development, and ensuring that events are aligned with the ministry’s goals.</p>
+                    <p>Manages the planning, execution, and evaluation of all events and programs. This includes
+                      overseeing event logistics, program development, and ensuring that events are aligned with the
+                      ministry’s goals.</p>
                     <div class="social">
                       <a href="https://web.facebook.com/cayCEEngkit" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="https://www.instagram.com/itsme_ceengkit/" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="https://www.instagram.com/itsme_ceengkit/" target="_blank"><i
+                          class="bi bi-instagram"></i></a>
                       <a href="mailto:caycee@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 963 668 8899</i></a>
                     </div>
                   </div>
                 </div>
               </div><!-- End Team Member -->
-      
+
               <div class="col-lg-6" data-aos="fade-up" data-aos-once=“true”>
                 <div class="team-member d-flex align-items-start">
-                  <div class="pic"><img src="assets/img/Team/ERIZA QUIMPO.png"
-                      class="img-fluid" alt=""></div>
+                  <div class="pic"><img src="assets/img/Team/ERIZA QUIMPO.png" class="img-fluid" alt=""></div>
                   <div class="member-info">
                     <h4>Eraiza Quimpo</h4>
                     <span><b>Senior Director</b>, Camp Dance Volunteers & Outsourcing</span>
-                    <p>Oversees the recruitment, training, and management of volunteers for the camp dance department. This role also handles outsourcing partnerships and collaborations with external dance coaches or related professionals.</p>
+                    <p>Oversees the recruitment, training, and management of volunteers for the camp dance department.
+                      This role also handles outsourcing partnerships and collaborations with external dance coaches or
+                      related professionals.</p>
                     <div class="social">
                       <a href="https://web.facebook.com/Eraizaquimpo" target="_blank"><i class="bi bi-facebook"></i></a>
                       <a href="https://www.instagram.com//" target="_blank"><i class="bi bi-instagram"></i></a>
@@ -533,30 +556,33 @@
             <div class="row gy-4">
               <div class="col-lg-6" data-aos="fade-up" data-aos-once=“true”>
                 <div class="team-member d-flex align-items-start">
-                  <div class="pic"><img src="assets/img/Team/Core Poul Vista.png"
-                      class="img-fluid" alt=""></div>
+                  <div class="pic"><img src="assets/img/Team/Core Poul Vista.png" class="img-fluid" alt=""></div>
                   <div class="member-info">
                     <h4>Poul Vincent Vista</h4>
                     <span><b>Senior Director</b>, Establishment & Workshop</span>
-                    <p>Leads the development of workshops and establishment-related initiatives, ensuring that the organization provides high-quality training and learning experiences for participants</p>
+                    <p>Leads the development of workshops and establishment-related initiatives, ensuring that the
+                      organization provides high-quality training and learning experiences for participants</p>
                     <div class="social">
                       <a href="https://web.facebook.com/Pollys.mhay" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="https://www.instagram.com/poulmagpusao/" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="https://www.instagram.com/poulmagpusao/" target="_blank"><i
+                          class="bi bi-instagram"></i></a>
                       <a href="mailto:poul@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 992 224 6938</i></a>
                     </div>
                   </div>
                 </div>
               </div><!-- End Team Member -->
-      
+
               <div class="col-lg-6" data-aos="fade-up" data-aos-once=“true”>
                 <div class="team-member d-flex align-items-start">
-                  <div class="pic"><img src="assets/img/Team/PASIG Bertmelan Calderon.png"
-                      class="img-fluid" alt=""></div>
+                  <div class="pic"><img src="assets/img/Team/PASIG Bertmelan Calderon.png" class="img-fluid" alt="">
+                  </div>
                   <div class="member-info">
                     <h4>Bert Melan Calderon</h4>
                     <span><b>Senior Director</b>, Big J Pasig</span>
-                    <p>Responsible for overseeing all activities, operations, and community-building efforts specific to the Big J branch or location in Pasig. This includes managing local outreach, programs, and events.</p>
+                    <p>Responsible for overseeing all activities, operations, and community-building efforts specific to
+                      the Big J branch or location in Pasig. This includes managing local outreach, programs, and
+                      events.</p>
                     <div class="social">
                       <a href="https://web.facebook.com/bertmelan02" target="_blank"><i class="bi bi-facebook"></i></a>
                       <a href="https://www.instagram.com/_iamberto/" target="_blank"><i class="bi bi-instagram"></i></a>
@@ -566,7 +592,7 @@
                   </div>
                 </div>
               </div><!-- End Team Member -->
-      
+
               <div class="col-lg-6" data-aos="fade-up" data-aos-once=“true”>
                 <div class="team-member d-flex align-items-start">
                   <div class="pic"><img src="assets/img/Logos/181625642_323031792500178_7353910229273216180_n.png"
@@ -574,28 +600,35 @@
                   <div class="member-info">
                     <h4>Andrea Ebin</h4>
                     <span><b>Senior Director</b>, Finance & Logistic</span>
-                    <p>Manages the organization’s financial health, budgeting, and logistics. This role ensures the effective allocation of resources and oversees transportation, equipment, and venue coordination.</p>
+                    <p>Manages the organization’s financial health, budgeting, and logistics. This role ensures the
+                      effective allocation of resources and oversees transportation, equipment, and venue coordination.
+                    </p>
                     <div class="social">
-                      <a href="https://web.facebook.com/ABCDENGGGGGGGGGGGGGGGGGGGGGGGG" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="https://www.instagram.com/abcdeeeeeeng/" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="https://web.facebook.com/ABCDENGGGGGGGGGGGGGGGGGGGGGGGG" target="_blank"><i
+                          class="bi bi-facebook"></i></a>
+                      <a href="https://www.instagram.com/abcdeeeeeeng/" target="_blank"><i
+                          class="bi bi-instagram"></i></a>
                       <a href="mailto:andrea@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 933 144 2056</i></a>
                     </div>
                   </div>
                 </div>
               </div><!-- End Team Member -->
-      
+
               <div class="col-lg-6" data-aos="fade-up" data-aos-once=“true”>
                 <div class="team-member d-flex align-items-start">
-                  <div class="pic"><img src="assets/img/Team/Michelle Oracles.png"
-                      class="img-fluid" alt=""></div>
+                  <div class="pic"><img src="assets/img/Team/Michelle Oracles.png" class="img-fluid" alt=""></div>
                   <div class="member-info">
                     <h4>Michelle Orcales</h4>
                     <span><b>Senior Director</b>, Data Entry & Engagement</span>
-                    <p>Oversees the management of data entry processes and ensures accurate record-keeping. This role also focuses on tracking engagement metrics and analyzing participation data to improve strategies.</p>
+                    <p>Oversees the management of data entry processes and ensures accurate record-keeping. This role
+                      also focuses on tracking engagement metrics and analyzing participation data to improve
+                      strategies.</p>
                     <div class="social">
-                      <a href="https://web.facebook.com/michie.orcales.14" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="https://www.instagram.com/michelleorcales/" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="https://web.facebook.com/michie.orcales.14" target="_blank"><i
+                          class="bi bi-facebook"></i></a>
+                      <a href="https://www.instagram.com/michelleorcales/" target="_blank"><i
+                          class="bi bi-instagram"></i></a>
                       <a href="mailto:michelle@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 930 669 1093</i></a>
                     </div>
@@ -608,22 +641,26 @@
             <div class="row gy-4">
               <div class="col-lg-6" data-aos="fade-up" data-aos-once=“true”>
                 <div class="team-member d-flex align-items-start">
-                  <div class="pic"><img src="assets/img/Team/CYRA PEQUE.png"
-                      class="img-fluid" alt=""></div>
+                  <div class="pic"><img src="assets/img/Team/CYRA PEQUE.png" class="img-fluid" alt=""></div>
                   <div class="member-info">
                     <h4>Cyra Jade Peque</h4>
                     <span><b>EA & Manager</b>, General Administration</span>
-                    <p>Serves as the primary support to the Executive Director, managing their schedule, communications, and ensuring the smooth execution of daily tasks. While managing the general administrative functions of the organization, coordinating office operations, managing internal processes, and supporting various departments to maintain efficiency and organization-wide cohesion.</p>
+                    <p>Serves as the primary support to the Executive Director, managing their schedule, communications,
+                      and ensuring the smooth execution of daily tasks. While managing the general administrative
+                      functions of the organization, coordinating office operations, managing internal processes, and
+                      supporting various departments to maintain efficiency and organization-wide cohesion.</p>
                     <div class="social">
-                      <a href="https://web.facebook.com/Cyrasnotavailable.234" target="_blank"><i class="bi bi-facebook"></i></a>
-                      <a href="https://www.instagram.com/jadeee_isnt_available_to_an1/" target="_blank"><i class="bi bi-instagram"></i></a>
+                      <a href="https://web.facebook.com/Cyrasnotavailable.234" target="_blank"><i
+                          class="bi bi-facebook"></i></a>
+                      <a href="https://www.instagram.com/jadeee_isnt_available_to_an1/" target="_blank"><i
+                          class="bi bi-instagram"></i></a>
                       <a href="mailto:cyra@globalsurge.org"><i class="bi bi-envelope"></i></a>
                       <a class="phone"><i class="bi bi-telephone-fill"> +63 915 984 8293</i></a>
                     </div>
                   </div>
                 </div>
               </div><!-- End Team Member -->
-                <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+
             </div>
           </div>
         </div>
@@ -636,14 +673,16 @@
           <span class="visually-hidden">Next</span>
         </button>
       </div>
-    </div>
+    
   </section>
   <!-- End of Team-->
   <hr class="hrstyle">
-  
+
+
   <!-- Footer -->
   <?php include 'main/footer.php'; ?>
   <!-- End of Footer-->
+
 </body>
 
 </html>

@@ -265,9 +265,6 @@ header-image {
 }
 
 /* Teams */
-#teamcarousel {
-  height: 100%;
-}
 
 .team .team-member .social .phone {
   width: 150px!important;
@@ -396,16 +393,9 @@ header-image {
   margin-left: 8px;
 }
 
-#teamcarousel .carousel .carousel-control-next-icon,
-#teamcarousel .carousel .carousel-control-prev-icon {
+.team .carousel .carousel-control-next-icon,
+.team .carousel .carousel-control-prev-icon {
   filter: invert();
-}
-
-#teamcarousel .carousel .carousel-control-next {
-  left:98%;
-}
-#teamcarousel .carousel .carousel-control-prev {
-  left:-13%;
 }
 
 /* Timeline */
@@ -505,6 +495,39 @@ header-image {
   }
   .timeline .carousel .carousel-indicators button.active h4 {
     font-size: 15px;
+  }
+  .timeline .carousel .carousel-indicators button {
+    text-indent: -3px !important;
+    margin-left: 20px!important;
+    margin-right: 20px!important;
+  }
+}
+
+@media (max-width: 480px) {
+  .timeline .carousel .carousel-indicators button h4 {
+    font-size: 9px;
+  }
+  .timeline .carousel .carousel-indicators button.active h4 {
+    font-size: 12px;
+  }
+  .timeline .carousel .carousel-indicators button {
+    text-indent: -3px !important;
+    margin-left: 15px!important;
+    margin-right: 15px!important;
+  }
+}
+
+@media (max-width: 340px) {
+  .timeline .carousel .carousel-indicators button h4 {
+    font-size: 9px;
+  }
+  .timeline .carousel .carousel-indicators button.active h4 {
+    font-size: 10px;
+  }
+  .timeline .carousel .carousel-indicators button {
+    text-indent: -3px !important;
+    margin-left: 13px!important;
+    margin-right: 13px!important;
   }
 }
 
