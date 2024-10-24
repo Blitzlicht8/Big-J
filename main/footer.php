@@ -4,7 +4,7 @@
       <div class="row gy-4">
         <div class="col-lg-4 col-md-6 footer-about">
           <a href="index.php" class="logo d-flex align-items-center">
-            <img src="./assets/img/Logos/RedLogoTransparent.png" alt="Big J Logo">
+            <img src="../assets/img/Logos/WhiteLogoTransparent.png" alt="Big J Logo">
             <span class="sitename">Big J</span>
           </a>
           <div class="footer-contact pt-3">

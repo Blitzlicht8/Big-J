@@ -40,15 +40,15 @@
       <div class="offcanvas-body">
         <ul class="navbar-nav justify-content-center flex-grow-1 navpe" id="nav-links">
           <li class="nav-item dropdown mx-2">
-            <a class="nav-link" href="../index.php" role="button" data-bs-hover="dropdown" aria-expanded="false">
+            <a class="nav-link" href="index.php" role="button" data-bs-hover="dropdown" aria-expanded="false">
               ABOUT US
             </a>
             <ul id="home" class="dropdown-menu dropdown-hover">
-              <li><a class="dropdown-item" href="../index.php#about">WHO WE ARE</a></li>
-              <li><a class="dropdown-item" href="../index.php#vismis">VISION & MISSION</a></li>
-              <li><a class="dropdown-item" href="../index.php#corevalues">CORE VALUES</a></li>
-              <li><a class="dropdown-item" href="../index.php#timeline">TIMELINE</a></li>
-              <li><a class="dropdown-item" href="../index.php#team">TEAM</a></li>
+              <li><a class="dropdown-item" href="index.php#about">WHO WE ARE</a></li>
+              <li><a class="dropdown-item" href="index.php#vismis">VISION & MISSION</a></li>
+              <li><a class="dropdown-item" href="index.php#corevalues">CORE VALUES</a></li>
+              <li><a class="dropdown-item" href="index.php#timeline">TIMELINE</a></li>
+              <li><a class="dropdown-item" href="index.php#team">TEAM</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown mx-2">
@@ -109,9 +109,15 @@
           <li class="nav-item mx-2">
             <a class="nav-link" aria-current="page" href="whatsnew.php">WHAT'S NEW</a>
           </li>
-          <li class="nav-item mx-2">
-            <a class="nav-link" aria-current="page" href="getinvolved.php">GET INVOLVED</a>
-          </li>
+          <li class="nav-item dropdown mx-2">
+            <a class="nav-link" href="getinvolved.php" role="button" data-bs-hover="dropdown" aria-expanded="false">
+            GET INVOLVED
+            </a>
+            <ul id="getinvolved" class="dropdown-menu dropdown-hover">
+              <li><a class="dropdown-item" href="getinvolved.php#calendar">CALENDAR OF EVENTS</a></li>
+              <li><a class="dropdown-item" href="getinvolved.php#forms">INVOLVEMENT FORMS</a></li>
+            </ul>
+          </li> 
           <li class="nav-item mx-2">
             <a class="nav-link" href="contactus.php">CONTACT US</a>
           </li>
