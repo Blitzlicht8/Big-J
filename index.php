@@ -486,7 +486,7 @@
                       <a href="https://www.instagram.com/jlyncastil/" target="_blank"><i
                           class="bi bi-instagram"></i></a>
                       <a href="mailto:joma@globalsurge.org"><i class="bi bi-envelope"></i></a>
-                      <a class="phone"><i class="bi bi-telephone-fill"> +63 955 043 0339</i></a>
+                      <a class="phone"><i class="bi bi-telephone-fill"></i> <i class="phonefont">09550430339</i></a>
                     </div>
                   </div>
                 </div>
@@ -506,7 +506,7 @@
                           class="bi bi-facebook"></i></a>
                       <a href="https://www.instagram.com//" target="_blank"><i class="bi bi-instagram"></i></a>
                       <a href="mailto:bernard@globalsurge.org"><i class="bi bi-envelope"></i></a>
-                      <a class="phone"><i class="bi bi-telephone-fill"> +63 912 003 1562</i></a>
+                      <a class="phone"><i class="bi bi-telephone-fill"></i> <i class="phonefont">09120031562</i></a>
                     </div>
                   </div>
                 </div>
@@ -526,7 +526,7 @@
                       <a href="https://www.instagram.com/itsme_ceengkit/" target="_blank"><i
                           class="bi bi-instagram"></i></a>
                       <a href="mailto:caycee@globalsurge.org"><i class="bi bi-envelope"></i></a>
-                      <a class="phone"><i class="bi bi-telephone-fill"> +63 963 668 8899</i></a>
+                      <a class="phone"><i class="bi bi-telephone-fill"></i> <i class="phonefont">09636688899</i></a>
                     </div>
                   </div>
                 </div>
@@ -545,7 +545,7 @@
                       <a href="https://web.facebook.com/Eraizaquimpo" target="_blank"><i class="bi bi-facebook"></i></a>
                       <a href="https://www.instagram.com//" target="_blank"><i class="bi bi-instagram"></i></a>
                       <a href="mailto:eraiza@globalsurge.org"><i class="bi bi-envelope"></i></a>
-                      <a class="phone"><i class="bi bi-telephone-fill"> +63 906 677 9379</i></a>
+                      <a class="phone"><i class="bi bi-telephone-fill"></i> <i class="phonefont">09066779379</i></a>
                     </div>
                   </div>
                 </div>
@@ -567,7 +567,7 @@
                       <a href="https://www.instagram.com/poulmagpusao/" target="_blank"><i
                           class="bi bi-instagram"></i></a>
                       <a href="mailto:poul@globalsurge.org"><i class="bi bi-envelope"></i></a>
-                      <a class="phone"><i class="bi bi-telephone-fill"> +63 992 224 6938</i></a>
+                      <a class="phone"><i class="bi bi-telephone-fill"></i> <i class="phonefont">09922246938</i></a>
                     </div>
                   </div>
                 </div>
@@ -587,7 +587,7 @@
                       <a href="https://web.facebook.com/bertmelan02" target="_blank"><i class="bi bi-facebook"></i></a>
                       <a href="https://www.instagram.com/_iamberto/" target="_blank"><i class="bi bi-instagram"></i></a>
                       <a href="mailto:bert@globalsurge.org"><i class="bi bi-envelope"></i></a>
-                      <a class="phone"><i class="bi bi-telephone-fill"> +63 970 526 0714</i></a>
+                      <a class="phone"><i class="bi bi-telephone-fill"></i> <i class="phonefont">09705260714</i></a>
                     </div>
                   </div>
                 </div>
@@ -609,7 +609,7 @@
                       <a href="https://www.instagram.com/abcdeeeeeeng/" target="_blank"><i
                           class="bi bi-instagram"></i></a>
                       <a href="mailto:andrea@globalsurge.org"><i class="bi bi-envelope"></i></a>
-                      <a class="phone"><i class="bi bi-telephone-fill"> +63 933 144 2056</i></a>
+                      <a class="phone"><i class="bi bi-telephone-fill"></i> <i class="phonefont">09331442056</i></a>
                     </div>
                   </div>
                 </div>
@@ -630,7 +630,7 @@
                       <a href="https://www.instagram.com/michelleorcales/" target="_blank"><i
                           class="bi bi-instagram"></i></a>
                       <a href="mailto:michelle@globalsurge.org"><i class="bi bi-envelope"></i></a>
-                      <a class="phone"><i class="bi bi-telephone-fill"> +63 930 669 1093</i></a>
+                      <a class="phone"><i class="bi bi-telephone-fill"></i> <i class="phonefont">09306691093</i></a>
                     </div>
                   </div>
                 </div>
@@ -655,7 +655,7 @@
                       <a href="https://www.instagram.com/jadeee_isnt_available_to_an1/" target="_blank"><i
                           class="bi bi-instagram"></i></a>
                       <a href="mailto:cyra@globalsurge.org"><i class="bi bi-envelope"></i></a>
-                      <a class="phone"><i class="bi bi-telephone-fill"> +63 915 984 8293</i></a>
+                      <a class="phone"><i class="bi bi-telephone-fill"></i> <i class="phonefont">09159848293</i></a>
                     </div>
                   </div>
                 </div>

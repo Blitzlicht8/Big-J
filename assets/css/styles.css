@@ -515,6 +515,9 @@ header-image {
     margin-left: 15px!important;
     margin-right: 15px!important;
   }
+  .phonefont {
+    font-size: 12px!important;
+  }  
 }
 
 @media (max-width: 340px) {
