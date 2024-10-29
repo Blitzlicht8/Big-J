@@ -671,3 +671,20 @@ header-image {
   margin: 10px 0 10px 0;
   font-size: 14px;
 }
+
+/** Facebook Embed **/
+.fb-container {
+  position: relative;
+  width: 100%; /* Adjust to fit the screen width */
+  padding-top: 75%; /* Adjust based on the aspect ratio */
+  overflow: hidden;
+}
+
+.fb-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
