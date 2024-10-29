@@ -597,7 +597,7 @@
 
               <div class="col-lg-6" data-aos="fade-up" data-aos-once=“true”>
                 <div class="team-member d-flex align-items-start">
-                  <div class="pic"><img src="assets/img/Logos/181625642_323031792500178_7353910229273216180_n.png"
+                  <div class="pic"><img src="assets/img/Team/Andreaebin.png"
                       class="img-fluid" alt=""></div>
                   <div class="member-info">
                     <h4>Andrea Ebin</h4>
