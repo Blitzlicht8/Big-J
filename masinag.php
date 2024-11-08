@@ -21,55 +21,55 @@
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Big-J Branch Name</div>
-            
+            Big J Masinag
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Launched Date</div>
-              
+            May 4, 2024
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Church Name</div>
-              
+            Global Surge Worship Center - Masinag
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Executive Pastor's Name</div>
-              
+              Ptr. Jonel Galeon
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Church Complete Address</div>
-            
+            Km 13 Marcos Highway, Brgy. Mambugan, Antipolo City
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Director's Complete Name</div>
-            
+            Immanuel Orolfo
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Branch Complete Address</div>
-            
+            Km 13 Marcos Highway, Brgy. Mambugan, Antipolo City
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Branch Launched Date</div>
-            
+            May 4, 2024
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
           <div class="ms-2 me-auto">
             <div class="fw-bold">Key People or Team Complete Name and Their Position</div>
-            
+            Leonardo Caones (Trainee Director)
           </div>
         </li>
         <li class="list-group-item d-flex justify-content-between align-items-start">
