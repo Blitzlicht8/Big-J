@@ -134,17 +134,17 @@
         <div class="col about-images">
           <div class="row justify-content-center">
             <div class="col">
-              <a href="assets/img/who-we-are (1).png" data-fancybox="about">
+              <a href="assets/img/who-we-are (1).png" data-fancybox="abouts">
                 <img src="assets/img/who-we-are (1).png" class="img-fluid" alt="">
               </a>
             </div>
             <div class="col">
-              <a href="assets/img/who-we-are (2).png" data-fancybox="about">
+              <a href="assets/img/who-we-are (2).png" data-fancybox="abouts">
                 <img src="assets/img/who-we-are (2).png" class="img-fluid" alt="">
               </a>
             </div>
             <div class="col">
-              <a href="assets/img/who-we-are (3).png" data-fancybox="about">
+              <a href="assets/img/who-we-are (3).png" data-fancybox="abouts">
                 <img src="assets/img/who-we-are (3).png" class="img-fluid" alt="">
               </a>
             </div>
