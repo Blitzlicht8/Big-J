@@ -15,7 +15,22 @@
   </div>
   <hr class="hrstyle">
   <div class="container">
-  <iframe width="50%" height= "750px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=y6x0CZKnxkCEUotRekCR43XChLSdMUVIvtvSe4ObjdFUQVlSMUFFUllGS1BWMkhJRjQ1UTRKVTRCQy4u&embed=true"> </iframe>
+    <div class="row justify-content-center">
+      <div class="col">
+        <iframe width="100%" height= "750px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=y6x0CZKnxkCEUotRekCR43XChLSdMUVIvtvSe4ObjdFUQVlSMUFFUllGS1BWMkhJRjQ1UTRKVTRCQy4u&embed=true"> </iframe>
+      </div>
+      <div class="col">
+        <iframe width="100%" height= "750px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=y6x0CZKnxkCEUotRekCR43XChLSdMUVIvtvSe4ObjdFUODQ4UkNLOU8xTFZIVlFKVlRNU1c4RlU5Uy4u&embed=true"> </iframe>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col">
+        <iframe width="100%" height= "750px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=y6x0CZKnxkCEUotRekCR43XChLSdMUVIvtvSe4ObjdFUQ00yR0dXMUowQUJGUVBSVUs3V05SOUNBVS4u&embed=true"> </iframe>
+      </div>
+      <div class="col">
+        <iframe width="100%" height= "750px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=y6x0CZKnxkCEUotRekCR43XChLSdMUVIvtvSe4ObjdFUNTFUWVNVR05PU0hZVTg5NEFIWjlOVFJNWi4u&embed=true"> </iframe>
+      </div>
+    </div>
   </div>
   
   <!-- End of Main -->
