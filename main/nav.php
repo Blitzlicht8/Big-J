@@ -154,36 +154,37 @@
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    const currentPage = window.location.pathname.split("/").pop(); // Get the current page, e.g., 'index.php'
+    const currentPage = window.location.pathname.split("/").pop(); // Get current page
 
-    // Handle regular nav links and dropdowns
+    // Handle links and dropdowns
     const navLinks = document.querySelectorAll('#nav-links .nav-link');
 
     navLinks.forEach(link => {
       const dropdown = link.parentElement.querySelector('.dropdown-menu');
 
       if (dropdown) {
-        // For dropdowns like BRANCHES
+        // Handle dropdown menus like BRANCHES
         const dropdownLinks = dropdown.querySelectorAll('.dropdown-item');
         let isParentActive = false;
 
         dropdownLinks.forEach(dropdownLink => {
           const dropdownHref = dropdownLink.getAttribute('href');
           if (dropdownHref && dropdownHref.split("/").pop() === currentPage) {
-            dropdownLink.classList.add('active'); // Mark the correct dropdown item as active
-            isParentActive = true; // Mark the parent active if any item is active
+            dropdownLink.classList.add('active');
+            isParentActive = true;
           } else {
-            dropdownLink.classList.remove('active'); // Ensure others are not active
+            dropdownLink.classList.remove('active');
           }
         });
 
+        // If any dropdown item is active, mark its parent active
         if (isParentActive) {
-          link.classList.add('active'); // Mark the parent "Branches" as active if any child is active
+          link.classList.add('active');
         } else {
-          link.classList.remove('active'); // Ensure other parents are not active
+          link.classList.remove('active');
         }
       } else {
-        // For regular links like "CONTACT US", "WHAT'S NEW", etc.
+        // Handle regular links (e.g., "CONTACT US", "WHAT'S NEW")
         const linkHref = link.getAttribute('href');
         if (linkHref && linkHref.split("/").pop() === currentPage) {
           link.classList.add('active');
@@ -193,17 +194,21 @@
       }
     });
 
-    // Explicitly handle the "About Us" link
-    const aboutUsLink = document.querySelector('.nav-link[href="../index.php"]');
+    // Explicit handling for specific links
+    const aboutUsLink = document.querySelector('.nav-link[href="index.php"]');
     if (aboutUsLink && currentPage === 'index.php') {
       aboutUsLink.classList.add('active');
     }
 
-    // Explicitly handle the "Branches" link for dropdown pages
     const branchesLink = document.querySelector('.nav-link[href="branches.php"]');
-    const branchesPages = ['branches.php', 'caloocans.php', 'caloocann.php', 'cavite.php', 'cogeo.php', 'cubao.php', 'mandaluyong.php', 'marikina.php', 'masinag.php', 'pasig.php', 'sanmateo.php', 'zambales.php']; // Add all branch page filenames
+    const branchesPages = ['branches.php', 'caloocans.php', 'caloocann.php', 'cavite.php', 'cogeo.php', 'cubao.php', 'mandaluyong.php', 'marikina.php', 'masinag.php', 'pasig.php', 'sanmateo.php', 'zambales.php'];
     if (branchesLink && branchesPages.includes(currentPage)) {
       branchesLink.classList.add('active');
+    }
+
+    const getInvolvedLink = document.querySelector('.nav-link[href="getinvolved.php"]');
+    if (getInvolvedLink && currentPage === 'getinvolved.php') {
+      getInvolvedLink.classList.add('active');
     }
   });
 </script>
